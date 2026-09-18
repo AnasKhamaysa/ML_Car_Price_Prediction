@@ -8,6 +8,16 @@ The project demonstrates a complete machine learning workflow starting from data
 
 ---
 
+# 👥 Team Project
+
+Done by:
+ANAS A A KHAMAYSA
+ABDALHAMID ALBEIK
+ABDALJAWWAD M. A. TARADEH
+ABDULRAHMAN Maeen Qaid ALHABBARI
+
+---
+
 # 📊 Dataset Features
 
 The dataset includes multiple car-related attributes, including:
@@ -121,9 +131,3 @@ The project includes several visualizations, such as:
 # 🎯 Conclusion
 
 This project highlights the importance of data preprocessing, feature engineering, and model selection in building accurate machine learning systems. Among all tested models, XGBoost delivered the best overall performance for car price prediction.
-
----
-
-# 👥 Team Project
-
-This project was developed collaboratively as part of a Machine Learning project.
