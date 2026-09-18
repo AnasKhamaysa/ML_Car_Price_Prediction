@@ -11,10 +11,10 @@ The project demonstrates a complete machine learning workflow starting from data
 # 👥 Team Project
 
 Done by:
-ANAS A A KHAMAYSA
-ABDALHAMID ALBEIK
-ABDALJAWWAD M. A. TARADEH
-ABDULRAHMAN Maeen Qaid ALHABBARI
+* ANAS A A KHAMAYSA
+* ABDALHAMID ALBEIK
+* ABDALJAWWAD M. A. TARADEH
+* ABDULRAHMAN Maeen Qaid ALHABBARI
 
 ---
 
